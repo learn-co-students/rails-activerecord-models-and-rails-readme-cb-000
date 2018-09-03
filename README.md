@@ -10,7 +10,7 @@ queries, add records, and perform all of the traditional database processes by
 leveraging methods as opposed to writing SQL manually. For example, below is the
 traditional way that we would query a database of 'posts' using SQL:
 
-```sql
+```sql!
 SELECT * FROM posts
 ```
 
