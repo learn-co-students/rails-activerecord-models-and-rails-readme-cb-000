@@ -14,7 +14,7 @@ traditional way that we would query a database of 'posts' using SQL:
 SELECT * FROM posts
 ```
 
-Compared with leveraging Active Record:
+Compared with leveraging Active Record:---
 
 ```ruby
 Post.all
